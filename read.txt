@@ -1,1 +1,7 @@
+git -am tell git add modified file
 example
+git status
+git commit -m ""
+git add .
+git init
+rm -rf dir
