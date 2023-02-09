@@ -5,3 +5,6 @@ git commit -m ""
 git add .
 git init
 rm -rf dir
+
+
+git reset HEAD read.txt (see the commands they explain for help)
