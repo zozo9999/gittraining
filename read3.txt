@@ -8,3 +8,9 @@ causing
 >>>>>>> bad
 
 pok
+
+git fetch (download contents from the local copy because I entered text in comments in git hub)
+git pull (download contents and match it with the local copy)
+git push
+
+git set-url origin url
