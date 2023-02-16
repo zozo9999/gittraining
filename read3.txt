@@ -8,3 +8,7 @@ causing
 >>>>>>> bad
 
 pok
+
+git tag -a "v10" -m "Release" 85fe102
+git tag
+git tag undevelop master
